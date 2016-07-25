@@ -1,0 +1,5 @@
+UserName:Brad Smith,Email:brad.m@foo.com,Password:foo
+UserName:Bill Board,Email:bill.b@foo.com,Password:bar
+UserName:Mike Stand,Email:mike.s@foo.com,Password:baz
+UserName:Anna Curtain,Email:anna.a@foo.com,Password:qux
+UserName:Kathy Smith,Email:kathy.s@foo.com,Password:corge
